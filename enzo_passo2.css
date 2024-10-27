@@ -1,0 +1,39 @@
+.subttile1 {
+    color: #00a78e;
+    font-size: 26px;
+}
+
+.title {
+    font-weight: bold;
+    color: #293651;
+    font-size: 48px;
+}
+.title, .subttile1{
+    text-align: center;
+}
+
+#seletor universal
+* { 
+    font-family: sans-serif;
+}
+
+.subttile2 {
+    color: #293651;
+    font-family: sans-serif;
+    font-size: 22px;
+    font-weight: 300;
+    letter-spacing: 2pt;
+    text-align: center;
+
+}
+
+.text {
+    color: #76778c;
+    font-family: sans-serif;
+    line-height: 32px;
+    text-align: center;
+    font-size: 20;
+    letter-spacing: 1.2pt
+    
+    
+}

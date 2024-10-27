@@ -1,0 +1,18 @@
+h2 {
+    color: #00a78e;
+    font-size: 26px;
+}
+
+h1 {
+    font-weight: bold;
+    color: #293651;
+    font-size: 48px;
+}
+h1, h2 {
+    text-align: center;
+}
+
+#seletor universal
+* { 
+    font-family: sans-serif;
+}
